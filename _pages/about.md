@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+研究方向：神经计算算法系统，认知智能体系架构系统；认知计算算法系统；视觉深度学习算法系统，并行大数据分析机器学习系统，异构计算服务优化传输系统，云端融合认知系统；奇异矩阵分解，分形优化，差分方程，海涅-加瓦罗定量研究。
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+主要工程：PDF文档文字识别，低分辨率低质量遥感图像处理，医学图像处理，视频图像跟踪或超分处理，微服务算法服务。
+
+兴趣方向：RSIC-V芯片工程; 、工业制造自动化设计；异构边缘计算架构，村算一体硬件，认知多端系统；蛋白质组学计算；材料合成算法；高频交易算法；能源开发工艺设计。
 
 A data-driven personal website
 ======
